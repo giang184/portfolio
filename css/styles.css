@@ -1,7 +1,6 @@
 body{
-  background-color: rgb(230, 208, 173);
+  background-color: #d6ccccde;
 }
-
 
 .top{
   font-family: monospace;
@@ -15,4 +14,16 @@ body{
 .sub{
   font-size: 20px;
   padding: 10px;
+}
+
+.card {
+
+  background-color: rgb(174, 202, 183);
+
+}
+
+img{
+  width: 49%;
+  padding: 10px;
+
 }
