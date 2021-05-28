@@ -18,13 +18,17 @@ body{
 }
 
 .card {
-
   background-color: rgb(174, 202, 183);
-
 }
 
-img{
+.img1{
   width: 49%;
   padding: 10px;
+}
 
+.img2{
+  width: 30%;
+  padding: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
