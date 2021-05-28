@@ -1,12 +1,18 @@
-body {
+body{
   background-color: rgb(230, 208, 173);
 }
 
-h1 {
+
+.top{
   font-family: monospace;
   font-weight: 600;
-  
+  font-size: 60px;
   text-align: center;
   background-color: rgb(173, 207, 230);
-  padding: 35px;
+  padding: 10px;
+}
+
+.sub{
+  font-size: 20px;
+  padding: 10px;
 }
