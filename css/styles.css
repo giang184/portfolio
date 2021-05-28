@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(230, 208, 173);
+}
+
+h1 {
+  font-family: monospace;
+  font-weight: 600;
+  
+  text-align: center;
+  background-color: rgb(173, 207, 230);
+  padding: 35px;
+}
