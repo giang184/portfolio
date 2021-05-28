@@ -1,6 +1,7 @@
 body{
   background-color: #d6ccccde;
   padding-bottom: 50px;
+  font-size: large;
 }
 
 .top{
@@ -31,4 +32,10 @@ body{
   padding: 10px;
   padding-top: 20px;
   padding-bottom: 20px;
+}
+
+.language{
+  color:rgb(190, 80, 7);
+  font-style: italic;
+  font-weight: bold;
 }
