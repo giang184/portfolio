@@ -16,7 +16,7 @@ _This is a website that contains my background information and credentials with 
 
 ## Setup/Installation Requirements
 
-* Clone this repository to your desktop
+* Clone [this](https://github.com/giang184/portfolio) repository to your desktop
 * Navigate to the top level of the directory.
 * Open index.html in your browser.
 
@@ -26,7 +26,7 @@ _This is a website that contains my background information and credentials with 
 
 ## License
 
-_[MIT](https://opensource.org/licenses/MIT)_
+* _[MIT](https://opensource.org/licenses/MIT)_
 
 ## Contact Information
 
