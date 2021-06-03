@@ -34,6 +34,13 @@ body{
   padding-bottom: 20px;
 }
 
+#img3{
+  width: 40%;
+
+  padding-bottom: 20px;
+  float:right;
+}
+
 .language{
   color:rgb(190, 80, 7);
   font-style: italic;
