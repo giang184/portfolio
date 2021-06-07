@@ -15,8 +15,8 @@
 _This is a website that contains my background information and credentials with links to past projects._
 
 ## Setup/Installation Requirements
-
-* Clone [this](https://github.com/giang184/portfolio) repository to your desktop
+* Visit [this webpage](https://giang184.github.io/portfolio/). 
+* or clone [this](https://github.com/giang184/portfolio) repository to your desktop
 * Navigate to the top level of the directory.
 * Open index.html in your browser.
 
